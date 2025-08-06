@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/deep/TodoApi/TodoApi.csproj": {}
+    "/home/deep/DotNetBackendControllerBasedAPI/TodoApi.csproj": {}
   },
   "projects": {
-    "/home/deep/TodoApi/TodoApi.csproj": {
+    "/home/deep/DotNetBackendControllerBasedAPI/TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/deep/TodoApi/TodoApi.csproj",
+        "projectUniqueName": "/home/deep/DotNetBackendControllerBasedAPI/TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "/home/deep/TodoApi/TodoApi.csproj",
+        "projectPath": "/home/deep/DotNetBackendControllerBasedAPI/TodoApi.csproj",
         "packagesPath": "/home/deep/.nuget/packages/",
-        "outputPath": "/home/deep/TodoApi/obj/",
+        "outputPath": "/home/deep/DotNetBackendControllerBasedAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/deep/.nuget/NuGet/NuGet.Config"
